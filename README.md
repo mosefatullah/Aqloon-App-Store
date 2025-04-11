@@ -11,3 +11,4 @@
 - **Deployment**: Vercel (provisionally)
 - **Storage**: Google Drive (provisionally)
 - **Authentication**: Aqloon Account
+- **Scan & Approval**: Aqloon App Check
