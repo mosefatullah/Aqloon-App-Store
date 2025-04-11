@@ -10,4 +10,4 @@
 ### Third Party :-
 - **Deployment**: Vercel (provisionally)
 - **Storage**: Google Drive (provisionally)
-- **Authentication**: Aqloon Account (provisionally; using PostgreSQL + )
+- **Authentication**: Aqloon Account
